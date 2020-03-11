@@ -11,8 +11,5 @@ destination IP address?
 
 ## Solution
 
-The solution.
-
-```
-The flag.
-```
+This challenge was standard [Wireshark](https://www.wireshark.org/) navigation. Probably one of the most useful
+softwares to learn in this field. I should know this by now.
