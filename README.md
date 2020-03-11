@@ -1,10 +1,7 @@
-# MGA CTF 2020
+## Capture the Flag
 
-This is the first Capture tha Flag competition that I fully competed in. I'm 
-making this write-up so I can always come back later and review what I did and 
-how I did it. I'm likely not going to enter all of the challenges, just the ones 
-that I found particularly interesting or challenging.
+Write-ups for the Capture the Flags that I participated in.
 
-## Competition Banner
+Templates used: [link](https://github.com/m3ssap0/CTF-Writeups/blob/master/template.md)
 
-![banner](IMAGES/banner.jpg)
+### Resources
