@@ -11,8 +11,10 @@ flag in one of these text files, do you thing you can find it? Hint: try to find
 
 ## Solution
 
-The solution.
+Pseudo-code beware:
+```
+for file in ctf/files/find:
+    print file contents
+```
 
-```
-The flag.
-```
+Doing this will print a whole bunch of fake results and one real result.

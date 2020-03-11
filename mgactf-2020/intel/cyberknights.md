@@ -10,8 +10,4 @@
 
 ## Solution
 
-The solution.
-
-```
-The flag.
-```
+[The solution](https://lmgtfy.com/)

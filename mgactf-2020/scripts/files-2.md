@@ -9,8 +9,10 @@
 
 ## Solution
 
-The solution.
+Pseudo-code beware:
+```
+for file in ctf/files_2.0/find:
+    print file contents
+```
 
-```
-The flag.
-```
+Doing this will print a whole bunch of fake results and one real result.

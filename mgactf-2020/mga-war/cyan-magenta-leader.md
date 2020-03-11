@@ -26,7 +26,8 @@ These ones were easy except for the last one.
 
 ![flag 3](../IMAGES/mga-cyan-3.PNG)
 
-4 - Change the ending URL from `/blah.html` `/robots.txt` and follow the path to the secret place
+4 - Change the ending URL from `/blah.html` to `/robots.txt` and follow the path to the secret place. 
+[Reasoning.](https://support.google.com/webmasters/answer/6062608?hl=en)
 
 ```
 mgactf{what_a_stylish_flag!}
