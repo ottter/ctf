@@ -11,8 +11,13 @@ Please find flag from the excel file.
 
 ## Solution
 
-The solution.
+This challenge arrived in a .xlsx file, which an Excel file that is technically a zip file. 
+
+![White Leader](../IMAGES/mga-white1.png)
+
+Opening it up in Excel is not going to yield any results, but once unzipped and the right file is found, 
+it is easily found. This one was in sharedStrings.xml
 
 ```
-The flag.
+mgactf{Creator_of_This_Challenge_Is_A_Monster}
 ```

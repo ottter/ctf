@@ -12,7 +12,7 @@ for Bictor HamFord to find the flags. Please access [REDACTED] and find the flag
 
 ## Solution
 
-These ones were easy (except for the 4th one which I left off). 
+These ones were easy except for the last one. 
 
 1 - Check the .css
 
@@ -26,8 +26,11 @@ These ones were easy (except for the 4th one which I left off).
 
 ![flag 3](../IMAGES/mga-cyan-3.PNG)
 
+4 - Change the ending URL from `/blah.html` `/robots.txt` and follow the path to the secret place
+
 ```
 mgactf{what_a_stylish_flag!}
 mgactf{design}
 mgactf{so_you_did_find_a_function...}
+mgactf{robots_beep_boop}
 ```
