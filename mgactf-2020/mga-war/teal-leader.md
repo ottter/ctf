@@ -13,8 +13,14 @@ What is the flag in the message?
 
 ## Solution
 
-The solution.
+![Teal Leader](../IMAGES/mga-teal-1.png)
+
+The master of obfuscation strikes again. The code included was pretty much useless. Just go to Dr. Jenkins door for the
+below code and XOR it with a key length of 5. I used [CyberChef's](https://gchq.github.io/CyberChef/) XOR Brute 
+Force to guess the key. 
+
+![Teal Leader](../IMAGES/mga-teal-2.png)
 
 ```
-The flag.
+mgactf{how_are_you_doing_today?}
 ```

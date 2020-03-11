@@ -9,12 +9,14 @@ I think I am only going to put up the ones that I solved and/or the ones that I 
 a lot of time in to.
 
 ```
-Final Score:    
-Final Rank:     
+Final Score:    20,820
+Final Rank:     1st Place
 ```
 
 ## Competition Banner
 
-![banner](IMAGES/banner.jpg)
+![banner](IMAGES/BANNER.jpg)
 
-## Tools I found useful
+## Scoreboard
+
+![Scoreboard](IMAGES/RANK.jpg)

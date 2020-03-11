@@ -14,8 +14,5 @@ all the possible details of the file.
 
 ## Solution
 
-The solution.
-
-```
-The flag.
-```
+I didn't save the specific questions for this one. Honestly if I am coming back in here in the future for guidance,
+just learn how to use Wireshark. It was all fairly straightforward.

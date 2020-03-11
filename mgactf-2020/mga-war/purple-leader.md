@@ -14,8 +14,9 @@ necessary. ( You have everything you need) OS: [REDACTED] What is the decryption
 
 ## Solution
 
-The solution.
+[FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2-0) search. This was too easy for the point
+value :p
 
 ```
-The flag.
+mgactf{You_Finally_Found_Me}
 ```
