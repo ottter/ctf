@@ -12,6 +12,8 @@ getting in. Try to log into our admin portal and you just may get a flag. Link: 
 
 The solution.
 
+![Admin Portal](../IMAGES/web-adminportal.png)
+
 ```
-The flag.
+Flag: 
 ```
