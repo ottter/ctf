@@ -10,9 +10,14 @@ Please view the message he has sent and find out the flag. Message: [REDACTED LI
 
 ## Solution
 
-Instead of a compiled file like in [hidden.exe](../exploits/hidden-exe-flag.md), I just had to go in to the 
-folder and look through Form1.cs for the flag.
+Instead of a compiled file like in [hidden.exe](../exploits/hidden-exe-flag.md), I was given a project folder for a C#
+assignment. Knowing that the typical default name for these projects is `Form1.cs` and that is generally where the code
+content is placed, I checked that one first. Not always reliable, but it's worth noting the last modified date as well.
+
+![Amber Leader](../IMAGES/mga-amber1.png)
+
+The flag is found as a comment at the bottom.
 
 ```
-mgactf{EliteHackersUse.Net}
+Flag: mgactf{EliteHackersUse.Net}
 ```

@@ -14,9 +14,10 @@ that there is a hidden flag on the other side for you. BUT we DO NOT have time. 
 
 ## Solution
 
-I saw that the button on the original website checks under `GetPassInfo()` so I ctrl+f for that and found the 
-correct entry to capture the flag
+The first thing I did was check the attributes on the `<input>` tag to find out how it worked. It lead to the function
+`GetPassInfo()` which is up near the top. Luckily has the acceptable password there in plaintext. Enter `pirates4ever` 
+in to the code input box and there ya go. 
 
 ```
-mgactf{with_no_keys_no_driving}
+Flag: mgactf{with_no_keys_no_driving}
 ```
