@@ -41,7 +41,7 @@ Change that to the suggested `mails.txt`
 
 ![banner](../IMAGES/mga-gold-3.PNG)
 
-Lastly just send the email to Gold Squadron Leader and 
+Lastly just send the email to Gold Squadron Leader using the mail section on the admin portal and the phrase "Long Live Leeroy Jenkins!" and 
 ```
 mgactf{6515}
 ```
