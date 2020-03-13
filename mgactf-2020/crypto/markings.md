@@ -12,6 +12,9 @@ what does it mean? (Enter the entire decoded string as your answer. use all lowe
 
 ![Markings](../IMAGES/crypto-markings.png)
 
+I just guessed this one after assuming the middle word was `the` and going from there. I'll edit this with the language
+origin.
+
 ```
 enter the dungeon
 ```

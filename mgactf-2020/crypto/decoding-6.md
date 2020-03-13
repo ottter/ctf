@@ -5,11 +5,14 @@
 
 ## Challenge
 
-> The hacker group is trying some new ways to conceal their messages. Can you decode them? .085)8 -‡98 50‡*8
+> The hacker group is trying some new ways to conceal their messages. Can you decode them? 
+
+.085)8 -‡98 50‡*8
 
 ## Solution
 
-[Gold-Bug Cipher](https://www.dcode.fr/gold-bug-poe)
+Read about the [Gold-Bug Cipher](https://www.dcode.fr/gold-bug-poe). A good sign to reoognize this cipher is the 
+use of the dagger `†` and double-dagger `‡` character.
 
 ```
 PLEASE COME ALONE

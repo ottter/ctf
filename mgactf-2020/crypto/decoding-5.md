@@ -6,12 +6,13 @@
 ## Challenge
 
 > The hacker group is trying some new ways to conceal their messages. 
-Can you decode them? TTT CTC ATG TAA TCG TCC CTT CTA CGA GGT GGA GAT CTC
+Can you decode them? 
+
+TTT CTC ATG TAA TCG TCC CTT CTA CGA GGT GGA GAT CTC
 
 ## Solution
-
-Yet another one I over-thought for a long time and 
-[I still don't really know how it works](https://www.dcode.fr/codons-genetic-code) but here it is.
+ 
+Read about [Codon Genetic Code here](https://www.dcode.fr/codons-genetic-code).
 
 ```
 key is red apple

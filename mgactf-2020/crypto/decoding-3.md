@@ -10,7 +10,7 @@ See if you can decode their usernames. Hacker 3 - DzgviylbS20
 
 ## Solution
 
-[Affine Cipher](https://www.dcode.fr/affine-cipher)
+Read about the [Affine Cipher](https://www.dcode.fr/affine-cipher).
 
 ```
 WaterboyH20

@@ -10,9 +10,9 @@ clock by 14 minutes and remember to add 1 + 2 + 3 + 4 1uoqdt{cvwtdKN4zj}". See i
 
 ## Solution
 
-This one took me a while to get even though in hindsight the prompt was right in front of me. Take the alphabet and 
-add 1234 to the end of it and [Caesar shift](https://www.dcode.fr/caesar-cipher) it. I'm honestly a little bit
-embarassed it took me this long.
+This one took me a while to get even though in hindsight the solution was right in front of me. Take the alphabet and 
+add `1234` to the end of it and [Caesar shift](https://www.dcode.fr/caesar-cipher) it. I'm honestly a little bit
+embarrassed it took me this long.
 
 ```
 import string

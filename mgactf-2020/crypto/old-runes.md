@@ -10,7 +10,9 @@ Still a mystery today, can you determine its meaning? (Give answer in lowercase 
 
 ## Solution
 
-[Gallifreyan](https://adrian17.github.io/Gallifreyan/) text (no image)
+![doctor who](../IMAGES/crypto-oldrune.png)
+
+Got to find a way to decipher [Gallifreyan](https://adrian17.github.io/Gallifreyan/) text.
 
 ```
 the doctor is calling
