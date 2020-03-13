@@ -13,7 +13,7 @@ What is the Flag?
 
 ## Solution
 
-This one was awfully annoying to read but very straightforward
+This one was awfully annoying to read but very straight-forward. If you notice that around the outside of the image is - and . which typically is related to morse code. Well both top and bottom have the flag. 
 
 ![Morse code](../IMAGES/mga-grey1.png)
 

@@ -10,10 +10,10 @@ getting in. Try to log into our admin portal and you just may get a flag. Link: 
 
 ## Solution
 
-The solution.
+You notice something when searching using typical F12 approach. I noticed it was a md5 hash. I decrypted it to produce the results "bigsecret" and usually default admin username is admin so that + the password got me inside the website which shown the flag. 
 
 ![Admin Portal](../IMAGES/web-adminportal.png)
 
 ```
-Flag: 
+Flag: mgactf{so_not_secure}
 ```
