@@ -13,3 +13,4 @@ Template used: [link](https://github.com/m3ssap0/CTF-Writeups/blob/master/templa
 | [CyberChef](https://gchq.github.io/CyberChef/) | "Swiss Army Knife". Collection of encryption and decryption tools                              |
 | [Repl.it](https://repl.it/languages/)          | Run code in dozens of languages in your browser for when you don't want to install it yourself |
 | [HexEd.it](https://hexed.it/?hl=en)            | Online hex editor                                                                              |
+| [dCode](https://www.dcode.fr/tools-list)       | Huge collection of cryptographic ciphers with explanations and clues to look out for           |
