@@ -1,1 +1,0 @@
-Notes and stuff from NCL Gymnasium before the season starts
